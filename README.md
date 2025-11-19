@@ -1,0 +1,2 @@
+# amanda
+Learning to programme
