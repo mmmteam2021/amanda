@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(226, 2, 255);
+    text-align: center;
+    font-size: 55px;
+}
+
+.center-title {}
+
+.center-p {
+    font-size: 16px;
+    font-family: "Playfair Display", serif;
+    max-width: 50%;
+    text-align: center;
+    transform: translateX(50%);
+}
+
+.fqa {
+    border: 1px solid rgb(165, 165, 165);
+    text-align: center;
+    margin-top: 45px;
+    max-width: 80%;
+    transform: translateX(13%);
+    border-radius: 5px;
+}
+
+.q {
+    background-color: rgb(206, 103, 226);
+    padding: 0.5px 0;
+    transition: 0.5s;
+}
+
+.q:hover {
+    background-color: rgb(216, 9, 206);
+    color: beige;
+}
+
+.hide {
+    display: none;
+}
